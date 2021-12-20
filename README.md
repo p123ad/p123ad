@@ -1,6 +1,8 @@
 ### Hello World 👋
-I am a mechatronics engineer from Germany- 🔭 Working on web applications using Django
-- 🌱 I'm building robots and tinkering around with computer vision and control stuff
+I am a mechatronics engineer from Germany
+- 🤖 Building robots
+- 👀 Tinkering around with computer vision and control stuff
+- 🚀 Building projects with microcontrollers and Raspis
 <br>
 
 ## Connect with me
