@@ -1,53 +1,32 @@
-### Hello World 👋
-I am a mechatronics engineer from Germany
-- 🤖 Building robots
-- 👀 Tinkering around with computer vision and control stuff
-- 🚀 Building projects with microcontrollers and Raspis
-<br>
+## Hi 👋 My name is Frederick
 
-## Connect with me
+---------------------
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/frederick-blome)
+I'm a mechatronics engineer working as a research associate at Fraunhofer.
+* 🌍  Based in Stade, Germany
+* 🧠  I'm currently learning Webdevelopment with Django
+* 🤖  I love building robots
+* 👀  Tinkering around with computer vision and control stuff
+* 🚀  Building projects with microcontrollers and Raspis
 
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/17645170/frederick-blome)
+### Skills
 
-<!--
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)
+<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a></p>
 
+### Socials
 
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)
+<p align="left"> <a href="https://www.github.com/p123ad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/frederick-blome/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
--->
-<br>
+### Badges
 
-<!--
-## Expertise
+<b>My GitHub Stats</b>
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<a href="http://www.github.com/p123ad"><img src="https://github-readme-stats.vercel.app/api?username=p123ad&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="p123ad's GitHub stats" /></a>
 
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<b>Top Repositories</b>
 
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+<div width="100%" align="center"><a href="https://github.com/p123ad/e_paper_picture_frame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p123ad&repo=e_paper_picture_frame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/p123ad/eye-blink-box" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p123ad&repo=eye-blink-box&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<br /><br /><br /><br /><br />
 
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
-<br>
--->
-<!--
-**p123ad/p123ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div width="100%" align="center"><a href="https://github.com/p123ad/kame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p123ad&repo=kame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/p123ad/RummyKnockingMachine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p123ad&repo=RummyKnockingMachine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
