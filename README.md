@@ -22,11 +22,3 @@ I'm a mechatronics engineer working as a research associate at Fraunhofer.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/p123ad"><img src="https://github-readme-stats.vercel.app/api?username=p123ad&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="p123ad's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/p123ad/e_paper_picture_frame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p123ad&repo=e_paper_picture_frame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/p123ad/eye-blink-box" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p123ad&repo=eye-blink-box&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/p123ad/kame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p123ad&repo=kame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/p123ad/RummyKnockingMachine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=p123ad&repo=RummyKnockingMachine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
